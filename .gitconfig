@@ -1,0 +1,7 @@
+[includeIf "gitdir:~/"]
+	path = ~/config/git/.gitconfig
+
+[includeIf "gitdir:~/Workspace/"]
+	path = ~/config/git/.gitconfig.quotemachine
+[init]
+	defaultBranch = mastere

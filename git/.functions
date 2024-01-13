@@ -1,0 +1,9 @@
+#!/bin/bash
+
+function gitr(){
+ git rebase -i origin/$1
+}
+
+function gitcp(){
+ git cherry-pick $1
+}
