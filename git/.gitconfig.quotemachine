@@ -10,5 +10,4 @@
         email = jeremie@quotemachine.com
 
 [pull]
-
 	      rebase = true
